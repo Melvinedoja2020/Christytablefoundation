@@ -399,6 +399,10 @@ h6,
     overflow: hidden;
 }
 
+.team-item-height {
+    height: 500px; /* Adjust height as needed */
+}
+
 .team-item .team-text {
     position: absolute;
     width: calc(100% - 45px);
